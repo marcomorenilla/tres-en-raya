@@ -6,3 +6,8 @@ El objetivo es utilizar diferentes tipos de datos en **Python** incluyendo lista
 
 Está diseñado para ser ejecutado en **Shell** directamente.
 ___
+
+>[!NOTE]
+> Desarrollo realizado utilizando el entorno idx de Google
+
+___
